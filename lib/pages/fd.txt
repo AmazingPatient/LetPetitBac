@@ -1,3 +1,7 @@
+
+
+
+
 Patient
 QR_CODE
 Appareil Photo

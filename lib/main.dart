@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
       routes: {
         "/home" : (context)=>Home(),
         "/acceuil" : (context)=>Acceuil(),
-        "/camera" : (context)=>Camera(),
+        "/camera" : (context)=>CameraExampleHome(),
         "/parametres" : (context)=>Parametres(),
         "/profil" : (context)=>Profil(),
         "/qrcode" : (context)=>Qrcode(),
